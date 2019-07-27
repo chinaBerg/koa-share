@@ -1188,11 +1188,8 @@ index.html可以看的更直观：
 - 《Node.js开发实战》作者：忽如寄
 
 <br>
-
-示例代码同步在[github]()，欢迎访问！
+[个人掘金地址](https://juejin.im/user/58ae78da8d6d8100584bc207/posts)
 <br>
 
 > 百尺竿头、日进一步  
 > 我是愣锤，欢迎交流与分享
-
-
