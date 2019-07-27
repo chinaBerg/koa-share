@@ -1,0 +1,33 @@
+{
+  "name": "koa-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "glob": "^7.1.4",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^3.2.0",
+    "koa-jwt": "^3.6.0",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.6.4",
+    "npm": "^6.10.1",
+    "xss": "^1.0.6"
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^6.2.0",
+    "npm": "^6.10.1",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2"
+  }
+}
